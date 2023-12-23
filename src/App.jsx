@@ -15,6 +15,10 @@ function App() {
                   <Card cart={cart} setCart={setCart}/>
                   <Card cart={cart} setCart={setCart}/>
                   <Card cart={cart} setCart={setCart}/>
+                  <Card cart={cart} setCart={setCart}/>
+                  <Card cart={cart} setCart={setCart}/>
+                  <Card cart={cart} setCart={setCart}/>
+                  <Card cart={cart} setCart={setCart}/>
                 </div>
             </div>
         </section>
